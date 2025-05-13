@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Q1. Which of the following is not a programming language?",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correct_answer": "HTML",
+    "explanation": "HTML is a markup language used to structure content on the web, not a programming language."
+  },
+  {
+    "question": "Q2. Which data structure uses the FIFO (First In First Out) principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "explanation": "A queue follows the FIFO principle, where elements are added at the rear and removed from the front."
+  },
+  {
+    "question": "Q3. What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Syntax Query Language"
+    ],
+    "correct_answer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, used to interact with databases."
+  },
+  {
+    "question": "Q4. Which of the following is a JavaScript framework?",
+    "options": [
+      "Django",
+      "Flask",
+      "Angular",
+      "Laravel"
+    ],
+    "correct_answer": "Angular",
+    "explanation": "Angular is a JavaScript framework developed by Google."
+  },
+  {
+    "question": "Q5. In Java, which keyword is used to inherit a class?",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "correct_answer": "extends",
+    "explanation": "The `extends` keyword is used for class inheritance in Java."
+  },
+  {
+    "question": "Q6. What is the time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "explanation": "Binary search operates by repeatedly dividing the search interval in half, yielding O(log n) complexity."
+  },
+  {
+    "question": "Q7. Which HTTP method is used to update a resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT",
+    "explanation": "PUT is used to update an existing resource or create it if it doesn't exist."
+  },
+  {
+    "question": "Q8. What does the acronym 'OOP' stand for?",
+    "options": [
+      "Open Operation Protocol",
+      "Object Oriented Programming",
+      "Optional Output Processing",
+      "Object Operational Procedure"
+    ],
+    "correct_answer": "Object Oriented Programming",
+    "explanation": "OOP stands for Object Oriented Programming, a paradigm based on the concept of objects."
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python? (Q9)",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "None of the above"
+    ],
+    "correct_answer": "loop",
+    "explanation": "`loop` is not a valid loop keyword in Python."
+  },
+  {
+    "question": "Which company developed the React library? (Q10)",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct_answer": "Facebook",
+    "explanation": "React was developed by Facebook to build user interfaces."
+  },
+  {
+    "question": "Which of the following is not a programming language? (Q11)",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correct_answer": "HTML",
+    "explanation": "HTML is a markup language used to structure content on the web, not a programming language."
+  },
+  {
+    "question": "Which data structure uses the FIFO (First In First Out) principle? (Q12)",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "explanation": "A queue follows the FIFO principle, where elements are added at the rear and removed from the front."
+  },
+  {
+    "question": "What does SQL stand for? (Q13)",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Syntax Query Language"
+    ],
+    "correct_answer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, used to interact with databases."
+  },
+  {
+    "question": "Which of the following is a JavaScript framework? (Q14)",
+    "options": [
+      "Django",
+      "Flask",
+      "Angular",
+      "Laravel"
+    ],
+    "correct_answer": "Angular",
+    "explanation": "Angular is a JavaScript framework developed by Google."
+  },
+  {
+    "question": "In Java, which keyword is used to inherit a class? (Q15)",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "correct_answer": "extends",
+    "explanation": "The `extends` keyword is used for class inheritance in Java."
+  },
+  {
+    "question": "What is the time complexity of binary search? (Q16)",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "explanation": "Binary search operates by repeatedly dividing the search interval in half, yielding O(log n) complexity."
+  },
+  {
+    "question": "Which HTTP method is used to update a resource? (Q17)",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT",
+    "explanation": "PUT is used to update an existing resource or create it if it doesn't exist."
+  },
+  {
+    "question": "What does the acronym 'OOP' stand for? (Q18)",
+    "options": [
+      "Open Operation Protocol",
+      "Object Oriented Programming",
+      "Optional Output Processing",
+      "Object Operational Procedure"
+    ],
+    "correct_answer": "Object Oriented Programming",
+    "explanation": "OOP stands for Object Oriented Programming, a paradigm based on the concept of objects."
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python? (Q19)",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "None of the above"
+    ],
+    "correct_answer": "loop",
+    "explanation": "`loop` is not a valid loop keyword in Python."
+  },
+  {
+    "question": "Which company developed the React library? (Q20)",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct_answer": "Facebook",
+    "explanation": "React was developed by Facebook to build user interfaces."
+  },
+  {
+    "question": "Which of the following is not a programming language? (Q21)",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correct_answer": "HTML",
+    "explanation": "HTML is a markup language used to structure content on the web, not a programming language."
+  },
+  {
+    "question": "Which data structure uses the FIFO (First In First Out) principle? (Q22)",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "explanation": "A queue follows the FIFO principle, where elements are added at the rear and removed from the front."
+  },
+  {
+    "question": "What does SQL stand for? (Q23)",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Syntax Query Language"
+    ],
+    "correct_answer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, used to interact with databases."
+  },
+  {
+    "question": "Which of the following is a JavaScript framework? (Q24)",
+    "options": [
+      "Django",
+      "Flask",
+      "Angular",
+      "Laravel"
+    ],
+    "correct_answer": "Angular",
+    "explanation": "Angular is a JavaScript framework developed by Google."
+  },
+  {
+    "question": "In Java, which keyword is used to inherit a class? (Q25)",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "correct_answer": "extends",
+    "explanation": "The `extends` keyword is used for class inheritance in Java."
+  },
+  {
+    "question": "What is the time complexity of binary search? (Q26)",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "explanation": "Binary search operates by repeatedly dividing the search interval in half, yielding O(log n) complexity."
+  },
+  {
+    "question": "Which HTTP method is used to update a resource? (Q27)",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT",
+    "explanation": "PUT is used to update an existing resource or create it if it doesn't exist."
+  },
+  {
+    "question": "What does the acronym 'OOP' stand for? (Q28)",
+    "options": [
+      "Open Operation Protocol",
+      "Object Oriented Programming",
+      "Optional Output Processing",
+      "Object Operational Procedure"
+    ],
+    "correct_answer": "Object Oriented Programming",
+    "explanation": "OOP stands for Object Oriented Programming, a paradigm based on the concept of objects."
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python? (Q29)",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "None of the above"
+    ],
+    "correct_answer": "loop",
+    "explanation": "`loop` is not a valid loop keyword in Python."
+  },
+  {
+    "question": "Which company developed the React library? (Q30)",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct_answer": "Facebook",
+    "explanation": "React was developed by Facebook to build user interfaces."
+  },
+  {
+    "question": "Which of the following is not a programming language? (Q31)",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correct_answer": "HTML",
+    "explanation": "HTML is a markup language used to structure content on the web, not a programming language."
+  },
+  {
+    "question": "Which data structure uses the FIFO (First In First Out) principle? (Q32)",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "explanation": "A queue follows the FIFO principle, where elements are added at the rear and removed from the front."
+  },
+  {
+    "question": "What does SQL stand for? (Q33)",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Syntax Query Language"
+    ],
+    "correct_answer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, used to interact with databases."
+  },
+  {
+    "question": "Which of the following is a JavaScript framework? (Q34)",
+    "options": [
+      "Django",
+      "Flask",
+      "Angular",
+      "Laravel"
+    ],
+    "correct_answer": "Angular",
+    "explanation": "Angular is a JavaScript framework developed by Google."
+  },
+  {
+    "question": "In Java, which keyword is used to inherit a class? (Q35)",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "correct_answer": "extends",
+    "explanation": "The `extends` keyword is used for class inheritance in Java."
+  },
+  {
+    "question": "What is the time complexity of binary search? (Q36)",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "explanation": "Binary search operates by repeatedly dividing the search interval in half, yielding O(log n) complexity."
+  },
+  {
+    "question": "Which HTTP method is used to update a resource? (Q37)",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT",
+    "explanation": "PUT is used to update an existing resource or create it if it doesn't exist."
+  },
+  {
+    "question": "What does the acronym 'OOP' stand for? (Q38)",
+    "options": [
+      "Open Operation Protocol",
+      "Object Oriented Programming",
+      "Optional Output Processing",
+      "Object Operational Procedure"
+    ],
+    "correct_answer": "Object Oriented Programming",
+    "explanation": "OOP stands for Object Oriented Programming, a paradigm based on the concept of objects."
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python? (Q39)",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "None of the above"
+    ],
+    "correct_answer": "loop",
+    "explanation": "`loop` is not a valid loop keyword in Python."
+  },
+  {
+    "question": "Which company developed the React library? (Q40)",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct_answer": "Facebook",
+    "explanation": "React was developed by Facebook to build user interfaces."
+  },
+  {
+    "question": "Which of the following is not a programming language? (Q41)",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "correct_answer": "HTML",
+    "explanation": "HTML is a markup language used to structure content on the web, not a programming language."
+  },
+  {
+    "question": "Which data structure uses the FIFO (First In First Out) principle? (Q42)",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct_answer": "Queue",
+    "explanation": "A queue follows the FIFO principle, where elements are added at the rear and removed from the front."
+  },
+  {
+    "question": "What does SQL stand for? (Q43)",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Language",
+      "Syntax Query Language"
+    ],
+    "correct_answer": "Structured Query Language",
+    "explanation": "SQL stands for Structured Query Language, used to interact with databases."
+  },
+  {
+    "question": "Which of the following is a JavaScript framework? (Q44)",
+    "options": [
+      "Django",
+      "Flask",
+      "Angular",
+      "Laravel"
+    ],
+    "correct_answer": "Angular",
+    "explanation": "Angular is a JavaScript framework developed by Google."
+  },
+  {
+    "question": "In Java, which keyword is used to inherit a class? (Q45)",
+    "options": [
+      "implements",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "correct_answer": "extends",
+    "explanation": "The `extends` keyword is used for class inheritance in Java."
+  },
+  {
+    "question": "What is the time complexity of binary search? (Q46)",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_answer": "O(log n)",
+    "explanation": "Binary search operates by repeatedly dividing the search interval in half, yielding O(log n) complexity."
+  },
+  {
+    "question": "Which HTTP method is used to update a resource? (Q47)",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT",
+    "explanation": "PUT is used to update an existing resource or create it if it doesn't exist."
+  },
+  {
+    "question": "What does the acronym 'OOP' stand for? (Q48)",
+    "options": [
+      "Open Operation Protocol",
+      "Object Oriented Programming",
+      "Optional Output Processing",
+      "Object Operational Procedure"
+    ],
+    "correct_answer": "Object Oriented Programming",
+    "explanation": "OOP stands for Object Oriented Programming, a paradigm based on the concept of objects."
+  },
+  {
+    "question": "Which of the following is not a valid loop in Python? (Q49)",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "None of the above"
+    ],
+    "correct_answer": "loop",
+    "explanation": "`loop` is not a valid loop keyword in Python."
+  },
+  {
+    "question": "Which company developed the React library? (Q50)",
+    "options": [
+      "Google",
+      "Facebook",
+      "Microsoft",
+      "Amazon"
+    ],
+    "correct_answer": "Facebook",
+    "explanation": "React was developed by Facebook to build user interfaces."
+  }
+]
