@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Q1. Which SQL statement is used to extract data from a database?",
+    "options": [
+      "GET",
+      "SELECT",
+      "EXTRACT",
+      "OPEN"
+    ],
+    "correct_answer": "SELECT"
+  },
+  {
+    "question": "Q2. Which SQL clause is used to filter records?",
+    "options": [
+      "ORDER BY",
+      "GROUP BY",
+      "WHERE",
+      "HAVING"
+    ],
+    "correct_answer": "WHERE"
+  },
+  {
+    "question": "Q3. Which command is used to remove all records from a table without logging individual row deletions?",
+    "options": [
+      "DELETE",
+      "TRUNCATE",
+      "DROP",
+      "REMOVE"
+    ],
+    "correct_answer": "TRUNCATE"
+  },
+  {
+    "question": "Q4. Which of the following is a valid SQL constraint?",
+    "options": [
+      "LIMIT",
+      "OFFSET",
+      "UNIQUE",
+      "RANGE"
+    ],
+    "correct_answer": "UNIQUE"
+  },
+  {
+    "question": "Q5. Which JOIN returns all records when there is a match in either left or right table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "correct_answer": "FULL OUTER JOIN"
+  },
+  {
+    "question": "Q6. Which SQL keyword is used to prevent duplicate records in SELECT query?",
+    "options": [
+      "DISTINCT",
+      "UNIQUE",
+      "NO DUPLICATES",
+      "FIRST"
+    ],
+    "correct_answer": "DISTINCT"
+  },
+  {
+    "question": "Q7. Which of the following is NOT a DML command?",
+    "options": [
+      "INSERT",
+      "DELETE",
+      "UPDATE",
+      "CREATE"
+    ],
+    "correct_answer": "CREATE"
+  },
+  {
+    "question": "Q8. What is the default sorting order of the ORDER BY clause?",
+    "options": [
+      "Descending",
+      "No order",
+      "Random",
+      "Ascending"
+    ],
+    "correct_answer": "Ascending"
+  },
+  {
+    "question": "Q9. Which SQL function is used to count the number of rows?",
+    "options": [
+      "SUM()",
+      "COUNT()",
+      "TOTAL()",
+      "ADD()"
+    ],
+    "correct_answer": "COUNT()"
+  },
+  {
+    "question": "Q10. Which clause is used with GROUP BY to filter groups?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "FILTER",
+      "SELECT"
+    ],
+    "correct_answer": "HAVING"
+  },
+  {
+    "question": "Q11. Which keyword is used to sort the result-set in SQL?",
+    "options": [
+      "SORT",
+      "ORDER",
+      "ORDER BY",
+      "SORT BY"
+    ],
+    "correct_answer": "ORDER BY"
+  },
+  {
+    "question": "Q12. What does the SQL IN operator do?",
+    "options": [
+      "Matches any value in a list",
+      "Adds numbers",
+      "Compares strings",
+      "Deletes rows"
+    ],
+    "correct_answer": "Matches any value in a list"
+  },
+  {
+    "question": "Q13. Which data type is used to store large binary objects?",
+    "options": [
+      "VARCHAR",
+      "TEXT",
+      "BLOB",
+      "BOOLEAN"
+    ],
+    "correct_answer": "BLOB"
+  },
+  {
+    "question": "Q14. What does the SQL keyword NULL represent?",
+    "options": [
+      "Zero",
+      "Empty String",
+      "Unknown/No value",
+      "False"
+    ],
+    "correct_answer": "Unknown/No value"
+  },
+  {
+    "question": "Q15. Which function returns the largest value in a column?",
+    "options": [
+      "MAX()",
+      "LARGE()",
+      "TOP()",
+      "HIGHEST()"
+    ],
+    "correct_answer": "MAX()"
+  },
+  {
+    "question": "Q16. What does the COUNT(*) function do?",
+    "options": [
+      "Counts non-null values",
+      "Counts rows including nulls",
+      "Counts columns",
+      "Counts tables"
+    ],
+    "correct_answer": "Counts rows including nulls"
+  },
+  {
+    "question": "Q17. What type of join returns only matched rows from both tables?",
+    "options": [
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL JOIN",
+      "INNER JOIN"
+    ],
+    "correct_answer": "INNER JOIN"
+  },
+  {
+    "question": "Q18. Which command is used to remove a table from the database?",
+    "options": [
+      "DELETE",
+      "DROP",
+      "REMOVE",
+      "TRUNCATE"
+    ],
+    "correct_answer": "DROP"
+  },
+  {
+    "question": "Q19. Which SQL keyword is used to modify data in a table?",
+    "options": [
+      "CHANGE",
+      "MODIFY",
+      "UPDATE",
+      "SET"
+    ],
+    "correct_answer": "UPDATE"
+  },
+  {
+    "question": "Q20. What is a PRIMARY KEY?",
+    "options": [
+      "A key that uniquely identifies a row",
+      "A foreign key",
+      "A unique constraint",
+      "A sorted key"
+    ],
+    "correct_answer": "A key that uniquely identifies a row"
+  },
+  {
+    "question": "Q21. What is the result of a CROSS JOIN?",
+    "options": [
+      "A cartesian product",
+      "Only matching rows",
+      "Null results",
+      "An error"
+    ],
+    "correct_answer": "A cartesian product"
+  },
+  {
+    "question": "Q22. Which clause is used to rename a column in SQL result?",
+    "options": [
+      "AS",
+      "RENAME",
+      "CHANGE",
+      "MODIFY"
+    ],
+    "correct_answer": "AS"
+  },
+  {
+    "question": "Q23. What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Sequential Query Logic",
+      "Standard Query Layout"
+    ],
+    "correct_answer": "Structured Query Language"
+  },
+  {
+    "question": "Q24. What does the BETWEEN operator do?",
+    "options": [
+      "Matches a range of values",
+      "Adds columns",
+      "Filters NULL values",
+      "Performs arithmetic"
+    ],
+    "correct_answer": "Matches a range of values"
+  },
+  {
+    "question": "Q25. Which function returns the smallest value in a column?",
+    "options": [
+      "MIN()",
+      "LOW()",
+      "SMALL()",
+      "BOTTOM()"
+    ],
+    "correct_answer": "MIN()"
+  },
+  {
+    "question": "Q26. Which SQL clause is used to limit the number of rows returned?",
+    "options": [
+      "LIMIT",
+      "ROWNUM",
+      "OFFSET",
+      "TOP"
+    ],
+    "correct_answer": "LIMIT"
+  },
+  {
+    "question": "Q27. What does a FOREIGN KEY do?",
+    "options": [
+      "Creates indexes",
+      "Links two tables",
+      "Inserts records",
+      "Deletes rows"
+    ],
+    "correct_answer": "Links two tables"
+  },
+  {
+    "question": "Q28. Which command is used to add a new column to a table?",
+    "options": [
+      "MODIFY",
+      "APPEND",
+      "ADD",
+      "ALTER"
+    ],
+    "correct_answer": "ALTER"
+  },
+  {
+    "question": "Q29. Which of the following is a DDL command?",
+    "options": [
+      "UPDATE",
+      "SELECT",
+      "CREATE",
+      "INSERT"
+    ],
+    "correct_answer": "CREATE"
+  },
+  {
+    "question": "Q30. Which command is used to remove a column?",
+    "options": [
+      "ALTER DROP",
+      "DELETE COLUMN",
+      "REMOVE",
+      "DROP COLUMN"
+    ],
+    "correct_answer": "DROP COLUMN"
+  },
+  {
+    "question": "Q31. Which SQL clause is used to rename a table?",
+    "options": [
+      "RENAME TO",
+      "MODIFY",
+      "UPDATE",
+      "AS"
+    ],
+    "correct_answer": "RENAME TO"
+  },
+  {
+    "question": "Q32. What is a view in SQL?",
+    "options": [
+      "A virtual table",
+      "A real table",
+      "A file",
+      "A user role"
+    ],
+    "correct_answer": "A virtual table"
+  },
+  {
+    "question": "Q33. Which clause is used to combine rows from two queries?",
+    "options": [
+      "UNION",
+      "JOIN",
+      "MERGE",
+      "GROUP"
+    ],
+    "correct_answer": "UNION"
+  },
+  {
+    "question": "Q34. Which of the following is not an aggregate function?",
+    "options": [
+      "MAX()",
+      "SUM()",
+      "AVG()",
+      "ROUND()"
+    ],
+    "correct_answer": "ROUND()"
+  },
+  {
+    "question": "Q35. What does the AVG() function do?",
+    "options": [
+      "Calculates average",
+      "Counts rows",
+      "Adds values",
+      "Finds the max"
+    ],
+    "correct_answer": "Calculates average"
+  },
+  {
+    "question": "Q36. Which SQL statement is used to insert new data into a table?",
+    "options": [
+      "INSERT INTO",
+      "ADD",
+      "PUT",
+      "UPDATE"
+    ],
+    "correct_answer": "INSERT INTO"
+  },
+  {
+    "question": "Q37. Which SQL keyword is used to check for non-matching values?",
+    "options": [
+      "IS NOT",
+      "NOT IN",
+      "EXCLUDE",
+      "DIFFERENT"
+    ],
+    "correct_answer": "NOT IN"
+  },
+  {
+    "question": "Q38. What is the purpose of the SQL CASE statement?",
+    "options": [
+      "Conditional logic",
+      "Looping",
+      "Comments",
+      "Error handling"
+    ],
+    "correct_answer": "Conditional logic"
+  },
+  {
+    "question": "Q39. What is the result of SELECT NULL = NULL?",
+    "options": [
+      "TRUE",
+      "FALSE",
+      "NULL",
+      "ERROR"
+    ],
+    "correct_answer": "NULL"
+  },
+  {
+    "question": "Q40. What does the COALESCE() function do?",
+    "options": [
+      "Returns first non-null value",
+      "Combines columns",
+      "Deletes nulls",
+      "Converts to zero"
+    ],
+    "correct_answer": "Returns first non-null value"
+  },
+  {
+    "question": "Q41. Which clause is used to skip a specific number of rows?",
+    "options": [
+      "OFFSET",
+      "LIMIT",
+      "SKIP",
+      "ROWNUM"
+    ],
+    "correct_answer": "OFFSET"
+  },
+  {
+    "question": "Q42. What is a composite key?",
+    "options": [
+      "Key with multiple columns",
+      "Foreign key",
+      "Primary key",
+      "Alternate key"
+    ],
+    "correct_answer": "Key with multiple columns"
+  },
+  {
+    "question": "Q43. What type of SQL command is GRANT?",
+    "options": [
+      "DCL",
+      "DDL",
+      "DML",
+      "TCL"
+    ],
+    "correct_answer": "DCL"
+  },
+  {
+    "question": "Q44. Which keyword is used to avoid duplicates in a result set?",
+    "options": [
+      "UNIQUE",
+      "ONLY",
+      "NO DUPLICATE",
+      "DISTINCT"
+    ],
+    "correct_answer": "DISTINCT"
+  },
+  {
+    "question": "Q45. Which keyword is used to define an alias for a table?",
+    "options": [
+      "AS",
+      "LIKE",
+      "ALIAS",
+      "NAMED"
+    ],
+    "correct_answer": "AS"
+  },
+  {
+    "question": "Q46. Which clause is used to group rows sharing a property?",
+    "options": [
+      "GROUP BY",
+      "ORDER BY",
+      "CLUSTER",
+      "SORT"
+    ],
+    "correct_answer": "GROUP BY"
+  },
+  {
+    "question": "Q47. What does RDBMS stand for?",
+    "options": [
+      "Relational Database Management System",
+      "Recursive DBMS",
+      "Reliable Data Bank",
+      "Random Data Base"
+    ],
+    "correct_answer": "Relational Database Management System"
+  },
+  {
+    "question": "Q48. Which SQL command is used to save changes?",
+    "options": [
+      "COMMIT",
+      "SAVE",
+      "PERSIST",
+      "WRITE"
+    ],
+    "correct_answer": "COMMIT"
+  },
+  {
+    "question": "Q49. What is the opposite of COMMIT?",
+    "options": [
+      "ROLLBACK",
+      "UNDO",
+      "CANCEL",
+      "REVERSE"
+    ],
+    "correct_answer": "ROLLBACK"
+  },
+  {
+    "question": "Q50. Which clause is used to check a condition after grouping the data?",
+    "options": [
+      "HAVING",
+      "WHERE",
+      "IF",
+      "FILTER"
+    ],
+    "correct_answer": "HAVING"
+  }
+]

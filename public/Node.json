@@ -1,0 +1,506 @@
+[
+  {
+    "question": "Q1. What is Node.js primarily used for?",
+    "options": [
+      "Front-end development",
+      "Machine learning",
+      "Server-side scripting",
+      "Mobile app development"
+    ],
+    "correct_answer": "Server-side scripting"
+  },
+  {
+    "question": "Q2. Which of the following is true about Node.js?",
+    "options": [
+      "It is a programming language.",
+      "It runs in the browser.",
+      "It is built on Chrome's V8 JavaScript engine.",
+      "It is compiled to bytecode before execution."
+    ],
+    "correct_answer": "It is built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "question": "Q3. Which command is used to initialize a new Node.js project?",
+    "options": [
+      "node init",
+      "npm init",
+      "npm start",
+      "node start"
+    ],
+    "correct_answer": "npm init"
+  },
+  {
+    "question": "Q4. What is the default scope in Node.js modules?",
+    "options": [
+      "Global",
+      "Private",
+      "Local to module",
+      "Public"
+    ],
+    "correct_answer": "Local to module"
+  },
+  {
+    "question": "Q5. Which module is used to create a web server in Node.js?",
+    "options": [
+      "http",
+      "fs",
+      "url",
+      "net"
+    ],
+    "correct_answer": "http"
+  },
+  {
+    "question": "Q6. How do you import a module in Node.js (CommonJS)?",
+    "options": [
+      "include('module')",
+      "import 'module'",
+      "require('module')",
+      "load('module')"
+    ],
+    "correct_answer": "require('module')"
+  },
+  {
+    "question": "Q7. What does the fs module stand for in Node.js?",
+    "options": [
+      "File Sync",
+      "File Server",
+      "File Stream",
+      "File System"
+    ],
+    "correct_answer": "File System"
+  },
+  {
+    "question": "Q8. Which object is used to handle asynchronous events in Node.js?",
+    "options": [
+      "EventEmitter",
+      "AsyncEvent",
+      "AsyncHandler",
+      "EventLoop"
+    ],
+    "correct_answer": "EventEmitter"
+  },
+  {
+    "question": "Q9. Which method is used to read a file asynchronously in Node.js?",
+    "options": [
+      "fs.read()",
+      "fs.readFileSync()",
+      "fs.readFile()",
+      "fs.open()"
+    ],
+    "correct_answer": "fs.readFile()"
+  },
+  {
+    "question": "Q10. Which core module helps in managing file paths?",
+    "options": [
+      "http",
+      "os",
+      "url",
+      "path"
+    ],
+    "correct_answer": "path"
+  },
+
+  {
+    "question": "Q11. What is the purpose of package.json?",
+    "options": [
+      "To list installed global packages",
+      "To define environment variables",
+      "To list metadata and dependencies of a Node.js project",
+      "To hold compiled code"
+    ],
+    "correct_answer": "To list metadata and dependencies of a Node.js project"
+  },
+  {
+    "question": "Q12. Which keyword is used to define asynchronous functions?",
+    "options": [
+      "await",
+      "defer",
+      "async",
+      "sync"
+    ],
+    "correct_answer": "async"
+  },
+  {
+    "question": "Q13. What is the use of the 'util' module?",
+    "options": [
+      "To work with networks",
+      "To debug HTTP requests",
+      "To provide utility functions for debugging and testing",
+      "To connect with databases"
+    ],
+    "correct_answer": "To provide utility functions for debugging and testing"
+  },
+  {
+    "question": "Q14. How does Node.js handle child processes?",
+    "options": [
+      "Through cluster module",
+      "Through fs module",
+      "Using spawn only",
+      "Using http module"
+    ],
+    "correct_answer": "Through cluster module"
+  },
+  {
+    "question": "Q15. What is middleware in Node.js Express?",
+    "options": [
+      "Code that runs after sending response",
+      "A background job",
+      "Functions that execute during the request-response cycle",
+      "Routes handler"
+    ],
+    "correct_answer": "Functions that execute during the request-response cycle"
+  },
+  {
+    "question": "Q16. How do you install Express in a Node.js project?",
+    "options": [
+      "node install express",
+      "install express",
+      "npm install express",
+      "express install"
+    ],
+    "correct_answer": "npm install express"
+  },
+  {
+    "question": "Q17. What is a callback function in Node.js?",
+    "options": [
+      "A function that calls another function",
+      "A function called at the start of a process",
+      "A function passed as an argument to be executed later",
+      "A function that is never called"
+    ],
+    "correct_answer": "A function passed as an argument to be executed later"
+  },
+  {
+    "question": "Q18. What does the 'cluster' module do?",
+    "options": [
+      "Distribute memory",
+      "Allows multiple Node.js processes to share server ports",
+      "Encrypt data",
+      "Reduce CPU usage"
+    ],
+    "correct_answer": "Allows multiple Node.js processes to share server ports"
+  },
+  {
+    "question": "Q19. What is an event loop in Node.js?",
+    "options": [
+      "An infinite loop",
+      "A way to handle user events",
+      "A mechanism to handle asynchronous callbacks",
+      "A debugger tool"
+    ],
+    "correct_answer": "A mechanism to handle asynchronous callbacks"
+  },
+  {
+    "question": "Q20. Which statement is true about Node.js?",
+    "options": [
+      "It is single-threaded but can handle concurrency using events and callbacks.",
+      "It runs multiple threads for each request.",
+      "It only handles synchronous operations.",
+      "It cannot perform file operations."
+    ],
+    "correct_answer": "It is single-threaded but can handle concurrency using events and callbacks."
+  },
+
+  {
+    "question": "Q21. What does 'npm' stand for?",
+    "options": [
+      "Node Project Manager",
+      "Node Package Manager",
+      "New Project Manager",
+      "Node Plugin Manager"
+    ],
+    "correct_answer": "Node Package Manager"
+  },
+  {
+    "question": "Q22. Which flag shows the version of Node.js?",
+    "options": [
+      "node -v",
+      "node --run",
+      "npm --start",
+      "node --version"
+    ],
+    "correct_answer": "node -v"
+  },
+  {
+    "question": "Q23. Which method is used to serve static files in Express?",
+    "options": [
+      "express.static()",
+      "app.static()",
+      "app.serve()",
+      "express.serveStatic()"
+    ],
+    "correct_answer": "express.static()"
+  },
+  {
+    "question": "Q24. What is the default port of Node.js?",
+    "options": [
+      "3000",
+      "8080",
+      "80",
+      "No default port"
+    ],
+    "correct_answer": "No default port"
+  },
+  {
+    "question": "Q25. Which of the following is NOT a core module in Node.js?",
+    "options": [
+      "http",
+      "fs",
+      "express",
+      "url"
+    ],
+    "correct_answer": "express"
+  },
+
+  {
+    "question": "Q26. How do you handle exceptions in async/await functions?",
+    "options": [
+      "Using catch() only",
+      "Using try/catch block",
+      "Using await()",
+      "Using finally only"
+    ],
+    "correct_answer": "Using try/catch block"
+  },
+  {
+    "question": "Q27. What is process.env used for?",
+    "options": [
+      "To store log files",
+      "To store file paths",
+      "To access environment variables",
+      "To define system errors"
+    ],
+    "correct_answer": "To access environment variables"
+  },
+  {
+    "question": "Q28. What is a stream in Node.js?",
+    "options": [
+      "A collection of data",
+      "A function to execute commands",
+      "A way to read/write data sequentially",
+      "A function that calls another function"
+    ],
+    "correct_answer": "A way to read/write data sequentially"
+  },
+  {
+    "question": "Q29. What does __dirname represent?",
+    "options": [
+      "The current filename",
+      "The parent directory",
+      "The name of the function",
+      "The directory name of the current module"
+    ],
+    "correct_answer": "The directory name of the current module"
+  },
+  {
+    "question": "Q30. What does the 'next' parameter in Express middleware do?",
+    "options": [
+      "Goes to the next line",
+      "Calls the next middleware function",
+      "Terminates the server",
+      "Sends the response"
+    ],
+    "correct_answer": "Calls the next middleware function"
+  },
+
+  {
+    "question": "Q31. Which HTTP method is used to update data?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": "PUT"
+  },
+  {
+    "question": "Q32. What is the purpose of nodemon?",
+    "options": [
+      "To monitor memory usage",
+      "To watch for changes and restart the server automatically",
+      "To increase performance",
+      "To manage errors"
+    ],
+    "correct_answer": "To watch for changes and restart the server automatically"
+  },
+  {
+    "question": "Q33. What does the res.send() method do in Express?",
+    "options": [
+      "Receives data",
+      "Sends a response to the client",
+      "Closes the server",
+      "Opens a file"
+    ],
+    "correct_answer": "Sends a response to the client"
+  },
+  {
+    "question": "Q34. Which method is used to parse incoming request bodies in Express?",
+    "options": [
+      "express.body()",
+      "express.data()",
+      "express.json()",
+      "express.content()"
+    ],
+    "correct_answer": "express.json()"
+  },
+  {
+    "question": "Q35. Which module is used to handle URL parsing in Node.js?",
+    "options": [
+      "url",
+      "path",
+      "querystring",
+      "http"
+    ],
+    "correct_answer": "url"
+  },
+  {
+    "question": "Q36. Which of these is NOT a valid HTTP method supported in Express?",
+    "options": [
+      "GET",
+      "PATCH",
+      "FETCH",
+      "DELETE"
+    ],
+    "correct_answer": "FETCH"
+  },
+  {
+    "question": "Q37. How do you export a function from a Node.js module?",
+    "options": [
+      "exports = functionName;",
+      "module.exports = functionName;",
+      "export functionName;",
+      "require.functionName;"
+    ],
+    "correct_answer": "module.exports = functionName;"
+  },
+  {
+    "question": "Q38. Which of these is true about global variables in Node.js?",
+    "options": [
+      "They are available in all modules by default.",
+      "They are discouraged due to potential conflicts.",
+      "They are created using let.",
+      "They are the same as environment variables."
+    ],
+    "correct_answer": "They are discouraged due to potential conflicts."
+  },
+  {
+    "question": "Q39. What does res.status(404).send() do in Express?",
+    "options": [
+      "Sends a 404 response with content",
+      "Redirects to a 404 page",
+      "Logs the error to console",
+      "Kills the server"
+    ],
+    "correct_answer": "Sends a 404 response with content"
+  },
+  {
+    "question": "Q40. What is the role of CORS in Node.js APIs?",
+    "options": [
+      "Handles database connections",
+      "Handles error logging",
+      "Enables cross-origin requests",
+      "Encrypts responses"
+    ],
+    "correct_answer": "Enables cross-origin requests"
+  },
+  {
+    "question": "Q41. What kind of design pattern is used by Node.js for async handling?",
+    "options": [
+      "Observer pattern",
+      "Singleton pattern",
+      "Factory pattern",
+      "Bridge pattern"
+    ],
+    "correct_answer": "Observer pattern"
+  },
+  {
+    "question": "Q42. How do you handle form data in Node.js Express?",
+    "options": [
+      "Using fs module",
+      "Using cors middleware",
+      "Using body-parser middleware",
+      "Using file-system"
+    ],
+    "correct_answer": "Using body-parser middleware"
+  },
+  {
+    "question": "Q43. How can you ensure secure password storage in a Node.js app?",
+    "options": [
+      "Store as plain text",
+      "Use AES encryption",
+      "Use bcrypt to hash passwords",
+      "Use JWT to encrypt passwords"
+    ],
+    "correct_answer": "Use bcrypt to hash passwords"
+  },
+  {
+    "question": "Q44. What is the output of console.log(typeof exports)?",
+    "options": [
+      "function",
+      "undefined",
+      "object",
+      "module"
+    ],
+    "correct_answer": "object"
+  },
+  {
+    "question": "Q45. What is the difference between process.nextTick() and setImmediate()?",
+    "options": [
+      "They are aliases",
+      "nextTick executes after all I/O; setImmediate before",
+      "nextTick executes before I/O; setImmediate after",
+      "Both are synchronous"
+    ],
+    "correct_answer": "nextTick executes before I/O; setImmediate after"
+  },
+  {
+    "question": "Q46. What is the purpose of async/await?",
+    "options": [
+      "To stop code execution",
+      "To run code in multiple threads",
+      "To write asynchronous code in a synchronous manner",
+      "To delay execution"
+    ],
+    "correct_answer": "To write asynchronous code in a synchronous manner"
+  },
+  {
+    "question": "Q47. Which environment variable is commonly used to set the port?",
+    "options": [
+      "SERVER_PORT",
+      "HOST",
+      "NODE_ENV",
+      "PORT"
+    ],
+    "correct_answer": "PORT"
+  },
+  {
+    "question": "Q48. How can you prevent a Node.js process from crashing on error?",
+    "options": [
+      "Using try/catch blocks",
+      "Avoiding async functions",
+      "Disabling error logs",
+      "Reducing memory usage"
+    ],
+    "correct_answer": "Using try/catch blocks"
+  },
+  {
+    "question": "Q49. What does the 'dotenv' package do in Node.js?",
+    "options": [
+      "Encrypt database fields",
+      "Connect to NoSQL DB",
+      "Load environment variables from a .env file",
+      "Create a new environment"
+    ],
+    "correct_answer": "Load environment variables from a .env file"
+  },
+  {
+    "question": "Q50. What is the main purpose of the 'helmet' middleware in Express?",
+    "options": [
+      "Enable logging",
+      "Parse requests",
+      "Secure apps by setting HTTP headers",
+      "Handle routing"
+    ],
+    "correct_answer": "Secure apps by setting HTTP headers"
+  }
+]

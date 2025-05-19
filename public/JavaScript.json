@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Q1. What is JavaScript?",
+    "options": ["A programming language", "A database", "A CSS framework", "An operating system"],
+    "correct_answer": "A programming language"
+  },
+  {
+    "question": "Q2. Which company developed JavaScript?",
+    "options": ["Microsoft", "Netscape", "Google", "Oracle"],
+    "correct_answer": "Netscape"
+  },
+  {
+    "question": "Q3. Which symbol is used for comments in JavaScript?",
+    "options": ["//", "##", "<!--", "**"],
+    "correct_answer": "//"
+  },
+  {
+    "question": "Q4. How do you declare a variable in JavaScript?",
+    "options": ["var", "let", "const", "All of the above"],
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "Q5. What is the output of typeof null?",
+    "options": ["null", "object", "undefined", "string"],
+    "correct_answer": "object"
+  },
+  {
+    "question": "Q6. What is the output of 2 + '2' in JavaScript?",
+    "options": ["22", "4", "NaN", "Error"],
+    "correct_answer": "22"
+  },
+  {
+    "question": "Q7. Which method is used to write to the console?",
+    "options": ["print()", "log()", "console.log()", "write()"],
+    "correct_answer": "console.log()"
+  },
+  {
+    "question": "Q8. What is NaN in JavaScript?",
+    "options": ["Not a Number", "Null and None", "No assigned Name", "Number after Null"],
+    "correct_answer": "Not a Number"
+  },
+  {
+    "question": "Q9. Which keyword is used to define a constant?",
+    "options": ["var", "let", "const", "define"],
+    "correct_answer": "const"
+  },
+  {
+    "question": "Q10. What is the correct syntax to create a function in JavaScript?",
+    "options": ["function myFunc()", "create function myFunc()", "def myFunc()", "func myFunc()"],
+    "correct_answer": "function myFunc()"
+  },
+  {
+    "question": "Q11. What is hoisting in JavaScript?",
+    "options": ["Variable declaration is moved to the top", "Function duplication", "DOM movement", "Script loading"],
+    "correct_answer": "Variable declaration is moved to the top"
+  },
+  {
+    "question": "Q12. Which keyword is used to check whether a property exists in an object?",
+    "options": ["exists", "in", "has", "contains"],
+    "correct_answer": "in"
+  },
+  {
+    "question": "Q13. Which operator is used to compare both value and type?",
+    "options": ["==", "=", "===", "!"],
+    "correct_answer": "==="
+  },
+  {
+    "question": "Q14. How do you convert a string to a number in JavaScript?",
+    "options": ["Number()", "parseInt()", "parseFloat()", "All of the above"],
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "Q15. What is the output of Boolean('false')?",
+    "options": ["true", "false", "undefined", "Error"],
+    "correct_answer": "true"
+  },
+  {
+    "question": "Q16. Which of the following is a primitive data type?",
+    "options": ["Object", "Array", "String", "Function"],
+    "correct_answer": "String"
+  },
+  {
+    "question": "Q17. What does DOM stand for?",
+    "options": ["Document Object Model", "Data Object Management", "Desktop Oriented Mode", "None"],
+    "correct_answer": "Document Object Model"
+  },
+  {
+    "question": "Q18. Which array method is used to remove the last element?",
+    "options": ["pop()", "push()", "shift()", "splice()"],
+    "correct_answer": "pop()"
+  },
+  {
+    "question": "Q19. Which method joins all elements of an array into a string?",
+    "options": ["join()", "concat()", "combine()", "link()"],
+    "correct_answer": "join()"
+  },
+  {
+    "question": "Q20. What is a closure in JavaScript?",
+    "options": ["A nested function with access to outer variables", "Loop in a function", "A method", "None"],
+    "correct_answer": "A nested function with access to outer variables"
+  },
+  {
+    "question": "Q21. What does 'this' keyword refer to?",
+    "options": ["Current object", "Global object", "Window", "None"],
+    "correct_answer": "Current object"
+  },
+  {
+    "question": "Q22. What is the output of [] == []?",
+    "options": ["true", "false", "undefined", "Error"],
+    "correct_answer": "false"
+  },
+  {
+    "question": "Q23. Which function is used to delay execution?",
+    "options": ["delay()", "setTimeout()", "sleep()", "wait()"],
+    "correct_answer": "setTimeout()"
+  },
+  {
+    "question": "Q24. What is the purpose of JSON.stringify()?",
+    "options": ["Convert object to string", "Parse string to object", "Encode URI", "None"],
+    "correct_answer": "Convert object to string"
+  },
+  {
+    "question": "Q25. Which of these is not a JavaScript data type?",
+    "options": ["Number", "String", "Character", "Boolean"],
+    "correct_answer": "Character"
+  },
+  {
+    "question": "Q26. Which method is used to create a new array from an existing one?",
+    "options": ["slice()", "splice()", "split()", "push()"],
+    "correct_answer": "slice()"
+  },
+  {
+    "question": "Q27. What does the spread operator (...) do?",
+    "options": ["Expands elements", "Joins arrays", "Creates loops", "None"],
+    "correct_answer": "Expands elements"
+  },
+  {
+    "question": "Q28. What is the use of the 'typeof' operator?",
+    "options": ["Returns variable type", "Creates variable", "Compares data", "None"],
+    "correct_answer": "Returns variable type"
+  },
+  {
+    "question": "Q29. Which method is used to parse a JSON string?",
+    "options": ["JSON.parse()", "JSON.decode()", "JSON.toObject()", "JSON.extract()"],
+    "correct_answer": "JSON.parse()"
+  },
+  {
+    "question": "Q30. What is the result of '5' - 2?",
+    "options": ["3", "7", "52", "Error"],
+    "correct_answer": "3"
+  },
+  {
+    "question": "Q31. Which symbol is used for template literals?",
+    "options": ["'", "\"", "`", "~"],
+    "correct_answer": "`"
+  },
+  {
+    "question": "Q32. Which method can be used to combine two arrays?",
+    "options": ["concat()", "merge()", "append()", "add()"],
+    "correct_answer": "concat()"
+  },
+  {
+    "question": "Q33. How do you declare an asynchronous function?",
+    "options": ["async function", "function async()", "asynchronous function()", "await function()"],
+    "correct_answer": "async function"
+  },
+  {
+    "question": "Q34. What is event bubbling?",
+    "options": ["Events propagate from child to parent", "Events propagate from parent to child", "No propagation", "Stops event"],
+    "correct_answer": "Events propagate from child to parent"
+  },
+  {
+    "question": "Q35. What is the use of 'break' statement?",
+    "options": ["Exit a loop", "Pause a loop", "Start loop again", "None"],
+    "correct_answer": "Exit a loop"
+  },
+  {
+    "question": "Q36. What will typeof NaN return?",
+    "options": ["number", "NaN", "undefined", "object"],
+    "correct_answer": "number"
+  },
+  {
+    "question": "Q37. Which object is the top of the scope chain?",
+    "options": ["Global object", "Window", "Document", "Function"],
+    "correct_answer": "Global object"
+  },
+  {
+    "question": "Q38. How do you prevent default behavior in an event?",
+    "options": ["event.preventDefault()", "event.stop()", "event.returnFalse()", "event.block()"],
+    "correct_answer": "event.preventDefault()"
+  },
+  {
+    "question": "Q39. What is an IIFE?",
+    "options": ["Immediately Invoked Function Expression", "Internal Function Expression", "Infinite Function Execution", "None"],
+    "correct_answer": "Immediately Invoked Function Expression"
+  },
+  {
+    "question": "Q40. What is the output of '2' + 2 - 1?",
+    "options": ["21", "3", "NaN", "None"],
+    "correct_answer": "21"
+  },
+  {
+    "question": "Q41. What is 'use strict'?",
+    "options": ["Enables strict mode", "Disables ES6", "Ignores errors", "None"],
+    "correct_answer": "Enables strict mode"
+  },
+  {
+    "question": "Q42. What does Array.isArray() return?",
+    "options": ["true if value is array", "length of array", "object", "None"],
+    "correct_answer": "true if value is array"
+  },
+  {
+    "question": "Q43. Which loop is guaranteed to run at least once?",
+    "options": ["for", "while", "do...while", "foreach"],
+    "correct_answer": "do...while"
+  },
+  {
+    "question": "Q44. What is the output of true + true?",
+    "options": ["2", "true", "1", "NaN"],
+    "correct_answer": "2"
+  },
+  {
+    "question": "Q45. Which method returns the index of an element?",
+    "options": ["indexOf()", "find()", "search()", "filter()"],
+    "correct_answer": "indexOf()"
+  },
+  {
+    "question": "Q46. How can you remove duplicates from an array?",
+    "options": ["Set", "Filter", "Map", "Reduce"],
+    "correct_answer": "Set"
+  },
+  {
+    "question": "Q47. What is the result of typeof undefined?",
+    "options": ["undefined", "null", "object", "NaN"],
+    "correct_answer": "undefined"
+  },
+  {
+    "question": "Q48. What does isNaN() check?",
+    "options": ["If value is Not a Number", "If value is number", "If value is null", "If value is undefined"],
+    "correct_answer": "If value is Not a Number"
+  },
+  {
+    "question": "Q49. Which keyword is used to create a class?",
+    "options": ["class", "object", "prototype", "function"],
+    "correct_answer": "class"
+  },
+  {
+    "question": "Q50. What is a promise in JavaScript?",
+    "options": ["Represents future completion of async task", "A function", "A variable", "None"],
+    "correct_answer": "Represents future completion of async task"
+  }
+]

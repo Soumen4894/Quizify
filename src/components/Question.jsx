@@ -55,7 +55,7 @@ const Question = ({ questions }) => {
   return (
     <>
       {questions.slice(page * 1 - 1, page * 1).map((question, index) => (
-        <div className="flex flex-col justify-center items-center min-h-screen bg-gray-50 px-4">
+        <div className="flex flex-col justify-center items-center min-h-screen bg-gray-50 px-4" >
           <div className="mb-6 text-center">
             <h1 className="text-2xl font-bold text-gray-800">
               {question.question}

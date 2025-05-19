@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Q1. What is the size of int in Java?",
+    "options": ["16-bit", "32-bit", "64-bit", "Depends on system"],
+    "correct_answer": "32-bit"
+  },
+  {
+    "question": "Q2. Which keyword is used to inherit a class in Java?",
+    "options": ["this", "super", "extends", "implements"],
+    "correct_answer": "extends"
+  },
+  {
+    "question": "Q3. Which of these is not a Java feature?",
+    "options": ["Object-oriented", "Platform-independent", "Use of pointers", "Dynamic"],
+    "correct_answer": "Use of pointers"
+  },
+  {
+    "question": "Q4. Which method is the entry point of a Java program?",
+    "options": ["main()", "start()", "run()", "init()"],
+    "correct_answer": "main()"
+  },
+  {
+    "question": "Q5. Which keyword is used to create an object in Java?",
+    "options": ["class", "object", "new", "instance"],
+    "correct_answer": "new"
+  },
+  {
+    "question": "Q6. What does JVM stand for?",
+    "options": ["Java Variable Method", "Java Virtual Machine", "Java Verified Machine", "Java Visual Machine"],
+    "correct_answer": "Java Virtual Machine"
+  },
+  {
+    "question": "Q7. What is the default value of a boolean variable?",
+    "options": ["true", "false", "0", "null"],
+    "correct_answer": "false"
+  },
+  {
+    "question": "Q8. Which of these is a valid interface declaration?",
+    "options": ["interface MyInterface {}", "class interface {}", "interface = new Interface();", "MyInterface implements interface"],
+    "correct_answer": "interface MyInterface {}"
+  },
+  {
+    "question": "Q9. Which collection class allows duplicate elements?",
+    "options": ["Set", "List", "Map", "None"],
+    "correct_answer": "List"
+  },
+  {
+    "question": "Q10. Which operator is used for comparing two values?",
+    "options": ["=", "==", "!=", "<>"],
+    "correct_answer": "=="
+  },
+  {
+    "question": "Q11. Which package contains the Scanner class?",
+    "options": ["java.util", "java.io", "java.lang", "java.text"],
+    "correct_answer": "java.util"
+  },
+  {
+    "question": "Q12. What does the 'static' keyword mean in Java?",
+    "options": ["Constant value", "Can’t be changed", "Belongs to class", "Accessible only once"],
+    "correct_answer": "Belongs to class"
+  },
+  {
+    "question": "Q13. What is method overloading?",
+    "options": ["Same method name with different return types", "Same method name with different parameters", "Same class multiple times", "Calling a method multiple times"],
+    "correct_answer": "Same method name with different parameters"
+  },
+  {
+    "question": "Q14. Which keyword prevents inheritance?",
+    "options": ["private", "static", "final", "abstract"],
+    "correct_answer": "final"
+  },
+  {
+    "question": "Q15. Which exception is thrown when a null object is accessed?",
+    "options": ["NullObjectException", "IllegalAccessException", "NullPointerException", "ObjectNotFoundException"],
+    "correct_answer": "NullPointerException"
+  },
+  {
+    "question": "Q16. Which method is used to start a thread in Java?",
+    "options": ["run()", "start()", "begin()", "init()"],
+    "correct_answer": "start()"
+  },
+  {
+    "question": "Q17. What does the 'this' keyword refer to?",
+    "options": ["Current method", "Current object", "Superclass", "Parent object"],
+    "correct_answer": "Current object"
+  },
+  {
+    "question": "Q18. What is the superclass of all classes in Java?",
+    "options": ["Main", "System", "Object", "Class"],
+    "correct_answer": "Object"
+  },
+  {
+    "question": "Q19. What type of language is Java?",
+    "options": ["Compiled", "Interpreted", "Both", "None"],
+    "correct_answer": "Both"
+  },
+  {
+    "question": "Q20. Which of the following is a checked exception?",
+    "options": ["IOException", "NullPointerException", "ArithmeticException", "ArrayIndexOutOfBoundsException"],
+    "correct_answer": "IOException"
+  },
+  {
+    "question": "Q21. Which keyword is used to inherit interfaces?",
+    "options": ["extends", "implements", "inherits", "interfaces"],
+    "correct_answer": "implements"
+  },
+  {
+    "question": "Q22. What is the use of the 'super' keyword?",
+    "options": ["To call parent class methods", "To call subclass method", "To create instance", "None of these"],
+    "correct_answer": "To call parent class methods"
+  },
+  {
+    "question": "Q23. Which of these is not part of the java.lang package?",
+    "options": ["Math", "Thread", "String", "Scanner"],
+    "correct_answer": "Scanner"
+  },
+  {
+    "question": "Q24. What is the default value of int?",
+    "options": ["0", "null", "undefined", "1"],
+    "correct_answer": "0"
+  },
+  {
+    "question": "Q25. Which keyword is used to define a constant?",
+    "options": ["final", "const", "static", "immutable"],
+    "correct_answer": "final"
+  },
+  {
+    "question": "Q26. Which loop is guaranteed to execute at least once?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "correct_answer": "do-while"
+  },
+  {
+    "question": "Q27. What is the purpose of garbage collection in Java?",
+    "options": ["Free memory", "Allocate memory", "Run faster", "None"],
+    "correct_answer": "Free memory"
+  },
+  {
+    "question": "Q28. What does the 'instanceof' operator do?",
+    "options": ["Check type compatibility", "Create object", "Call method", "None"],
+    "correct_answer": "Check type compatibility"
+  },
+  {
+    "question": "Q29. Which keyword is used to define an abstract method?",
+    "options": ["abstract", "virtual", "interface", "base"],
+    "correct_answer": "abstract"
+  },
+  {
+    "question": "Q30. Which of the following can’t be overridden?",
+    "options": ["private methods", "public methods", "protected methods", "default methods"],
+    "correct_answer": "private methods"
+  },
+  {
+    "question": "Q31. What is the output of 10 + 20 + \"30\" in Java?",
+    "options": ["60", "102030", "3030", "3030.0"],
+    "correct_answer": "3030"
+  },
+  {
+    "question": "Q32. What is the return type of the hashCode() method?",
+    "options": ["long", "int", "short", "double"],
+    "correct_answer": "int"
+  },
+  {
+    "question": "Q33. What does the 'finalize()' method do?",
+    "options": ["Initialize object", "Call superclass", "Run before garbage collection", "Destroy class"],
+    "correct_answer": "Run before garbage collection"
+  },
+  {
+    "question": "Q34. What is Java bytecode?",
+    "options": ["Code compiled by Java compiler", "Binary format of source", "Machine code", "Java script"],
+    "correct_answer": "Code compiled by Java compiler"
+  },
+  {
+    "question": "Q35. Which of the following is not a Java keyword?",
+    "options": ["try", "catch", "finally", "throwing"],
+    "correct_answer": "throwing"
+  },
+  {
+    "question": "Q36. Which access modifier makes a member accessible within the same package?",
+    "options": ["private", "protected", "public", "default"],
+    "correct_answer": "default"
+  },
+  {
+    "question": "Q37. Which of the following is used to handle exceptions?",
+    "options": ["try-catch", "throw-catch", "error block", "exception block"],
+    "correct_answer": "try-catch"
+  },
+  {
+    "question": "Q38. Which Java collection does not allow duplicates?",
+    "options": ["List", "Set", "Map", "ArrayList"],
+    "correct_answer": "Set"
+  },
+  {
+    "question": "Q39. What does the 'volatile' keyword do?",
+    "options": ["Make variable immutable", "Prevent thread caching", "Create static method", "None"],
+    "correct_answer": "Prevent thread caching"
+  },
+  {
+    "question": "Q40. What is the use of 'synchronized' keyword?",
+    "options": ["Thread safety", "Memory management", "Object cloning", "Type casting"],
+    "correct_answer": "Thread safety"
+  },
+  {
+    "question": "Q41. Which interface is implemented by ArrayList?",
+    "options": ["List", "Map", "Set", "Queue"],
+    "correct_answer": "List"
+  },
+  {
+    "question": "Q42. What is the parent class of all exceptions?",
+    "options": ["Throwable", "Exception", "RuntimeException", "Error"],
+    "correct_answer": "Throwable"
+  },
+  {
+    "question": "Q43. Which method converts a string to an integer?",
+    "options": ["Integer.parseInt()", "Integer.toString()", "String.toInt()", "parseInt.String()"],
+    "correct_answer": "Integer.parseInt()"
+  },
+  {
+    "question": "Q44. Which class is used for reading input from console?",
+    "options": ["Scanner", "ConsoleReader", "InputReader", "Reader"],
+    "correct_answer": "Scanner"
+  },
+  {
+    "question": "Q45. How is exception propagation done?",
+    "options": ["Method to caller", "Caller to method", "Caller to class", "None"],
+    "correct_answer": "Method to caller"
+  },
+  {
+    "question": "Q46. What is the size of byte in Java?",
+    "options": ["4 bits", "8 bits", "16 bits", "32 bits"],
+    "correct_answer": "8 bits"
+  },
+  {
+    "question": "Q47. Which method checks object equality?",
+    "options": ["==", "equals()", "equalsIgnoreCase()", "compare()"],
+    "correct_answer": "equals()"
+  },
+  {
+    "question": "Q48. Which loop is used to iterate over arrays?",
+    "options": ["foreach", "for", "while", "do-while"],
+    "correct_answer": "foreach"
+  },
+  {
+    "question": "Q49. What is the use of 'transient' keyword?",
+    "options": ["Prevent serialization", "Prevent access", "Prevent thread", "Prevent override"],
+    "correct_answer": "Prevent serialization"
+  },
+  {
+    "question": "Q50. Which version introduced lambda expressions?",
+    "options": ["Java 6", "Java 7", "Java 8", "Java 11"],
+    "correct_answer": "Java 8"
+  }
+]

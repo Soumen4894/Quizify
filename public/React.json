@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Q1. What is React?",
+    "options": ["A backend framework", "A JavaScript library for building user interfaces", "A database", "A CSS framework"],
+    "correct_answer": "A JavaScript library for building user interfaces"
+  },
+  {
+    "question": "Q2. Who developed React?",
+    "options": ["Google", "Facebook", "Microsoft", "Twitter"],
+    "correct_answer": "Facebook"
+  },
+  {
+    "question": "Q3. What is the command to create a new React app?",
+    "options": ["react-create-app", "create-react-app", "npm install react", "react-new-app"],
+    "correct_answer": "create-react-app"
+  },
+  {
+    "question": "Q4. What is JSX?",
+    "options": ["JavaScript XML", "Java Syntax Extension", "JSON syntax", "React extension"],
+    "correct_answer": "JavaScript XML"
+  },
+  {
+    "question": "Q5. What is a component in React?",
+    "options": ["A database model", "Reusable piece of UI", "JavaScript function", "CSS class"],
+    "correct_answer": "Reusable piece of UI"
+  },
+  {
+    "question": "Q6. How do you pass data from parent to child in React?",
+    "options": ["props", "state", "context", "hooks"],
+    "correct_answer": "props"
+  },
+  {
+    "question": "Q7. What hook is used to manage state in functional components?",
+    "options": ["useEffect", "useRef", "useContext", "useState"],
+    "correct_answer": "useState"
+  },
+  {
+    "question": "Q8. What hook is used for side effects?",
+    "options": ["useState", "useEffect", "useRef", "useMemo"],
+    "correct_answer": "useEffect"
+  },
+  {
+    "question": "Q9. What is a key in React lists?",
+    "options": ["A CSS class", "Unique identifier", "A function", "React method"],
+    "correct_answer": "Unique identifier"
+  },
+  {
+    "question": "Q10. What is the virtual DOM?",
+    "options": ["A copy of real DOM in memory", "React database", "Browser cache", "Node server"],
+    "correct_answer": "A copy of real DOM in memory"
+  },
+  {
+    "question": "Q11. Which method is called after a component is rendered?",
+    "options": ["componentDidMount", "render", "componentWillUnmount", "constructor"],
+    "correct_answer": "componentDidMount"
+  },
+  {
+    "question": "Q12. What is prop drilling?",
+    "options": ["Passing props deep through multiple layers", "Using too many props", "Unused props", "Passing functions"],
+    "correct_answer": "Passing props deep through multiple layers"
+  },
+  {
+    "question": "Q13. What is context in React?",
+    "options": ["Global state management", "API call handler", "CSS management", "Component lifecycle tool"],
+    "correct_answer": "Global state management"
+  },
+  {
+    "question": "Q14. What is a controlled component?",
+    "options": ["A component with CSS", "Input controlled by state", "Component with props", "Form with validation"],
+    "correct_answer": "Input controlled by state"
+  },
+  {
+    "question": "Q15. What is React Router used for?",
+    "options": ["Styling", "Routing", "State management", "Animations"],
+    "correct_answer": "Routing"
+  },
+  {
+    "question": "Q16. What is useRef used for?",
+    "options": ["Refer to class", "Access DOM elements", "Set state", "Create context"],
+    "correct_answer": "Access DOM elements"
+  },
+  {
+    "question": "Q17. What does useEffect return?",
+    "options": ["A function", "Cleanup function", "Nothing", "Component"],
+    "correct_answer": "Cleanup function"
+  },
+  {
+    "question": "Q18. Which method is used to update state in class components?",
+    "options": ["useState", "this.setState", "setState()", "updateState"],
+    "correct_answer": "this.setState"
+  },
+  {
+    "question": "Q19. What is React.memo used for?",
+    "options": ["Create components", "Prevent re-rendering", "Update state", "Change props"],
+    "correct_answer": "Prevent re-rendering"
+  },
+  {
+    "question": "Q20. What is lazy loading?",
+    "options": ["Loading everything", "Loading components on demand", "Loading CSS first", "Server-side rendering"],
+    "correct_answer": "Loading components on demand"
+  },
+  {
+    "question": "Q21. Which hook is used for memoization?",
+    "options": ["useEffect", "useMemo", "useState", "useCallback"],
+    "correct_answer": "useMemo"
+  },
+  {
+    "question": "Q22. What is a higher-order component (HOC)?",
+    "options": ["A component that returns another component", "A component with higher performance", "A styled component", "None"],
+    "correct_answer": "A component that returns another component"
+  },
+  {
+    "question": "Q23. What does the 'key' prop help React with?",
+    "options": ["Identification of elements", "Rendering styles", "Performance boost", "Component memory"],
+    "correct_answer": "Identification of elements"
+  },
+  {
+    "question": "Q24. What are fragments in React?",
+    "options": ["Empty tags", "Divs", "Arrays", "Objects"],
+    "correct_answer": "Empty tags"
+  },
+  {
+    "question": "Q25. What is the purpose of React.StrictMode?",
+    "options": ["Find potential problems", "Strict layout", "Prevent rendering", "Avoid routing issues"],
+    "correct_answer": "Find potential problems"
+  },
+  {
+    "question": "Q26. Which of these is a valid useState declaration?",
+    "options": ["const [state, setState] = useState()", "useState const = [state]", "const state = useState[]", "useEffect(() => {}, [])"],
+    "correct_answer": "const [state, setState] = useState()"
+  },
+  {
+    "question": "Q27. Can hooks be used in class components?",
+    "options": ["Yes", "No", "Only useEffect", "Only with HOC"],
+    "correct_answer": "No"
+  },
+  {
+    "question": "Q28. What is a pure component?",
+    "options": ["Component with CSS", "Component with logic", "Component that avoids re-renders if props/state are unchanged", "None"],
+    "correct_answer": "Component that avoids re-renders if props/state are unchanged"
+  },
+  {
+    "question": "Q29. How do you render a list in React?",
+    "options": ["Using map()", "Using forEach()", "Using for loop", "Using while loop"],
+    "correct_answer": "Using map()"
+  },
+  {
+    "question": "Q30. What is the role of Babel in React?",
+    "options": ["Transpile JSX to JavaScript", "Route pages", "Style components", "Handle data"],
+    "correct_answer": "Transpile JSX to JavaScript"
+  },
+  {
+    "question": "Q31. What is the use of useCallback?",
+    "options": ["Store value", "Memoize functions", "Set state", "Store data"],
+    "correct_answer": "Memoize functions"
+  },
+  {
+    "question": "Q32. What is server-side rendering?",
+    "options": ["Render on client", "Render on server before sending to client", "Static rendering", "Offline rendering"],
+    "correct_answer": "Render on server before sending to client"
+  },
+  {
+    "question": "Q33. Which function is used to render React to the DOM?",
+    "options": ["React.render()", "ReactDOM.render()", "renderReact()", "React.create()"],
+    "correct_answer": "ReactDOM.render()"
+  },
+  {
+    "question": "Q34. What is the difference between props and state?",
+    "options": ["Props are external and state is internal", "Both are same", "State is constant", "Props can be changed"],
+    "correct_answer": "Props are external and state is internal"
+  },
+  {
+    "question": "Q35. Can props be modified inside a component?",
+    "options": ["Yes", "No", "Only in class components", "Only with hooks"],
+    "correct_answer": "No"
+  },
+  {
+    "question": "Q36. What is React Portal used for?",
+    "options": ["Send logs", "Render outside DOM hierarchy", "Fetch data", "Style elements"],
+    "correct_answer": "Render outside DOM hierarchy"
+  },
+  {
+    "question": "Q37. Which method is used to prevent default form submission?",
+    "options": ["event.preventDefault()", "form.stop()", "preventSubmit()", "blockForm()"],
+    "correct_answer": "event.preventDefault()"
+  },
+  {
+    "question": "Q38. What is suspense in React?",
+    "options": ["Data fetching handler", "Placeholder UI while loading", "Error handler", "Routing tool"],
+    "correct_answer": "Placeholder UI while loading"
+  },
+  {
+    "question": "Q39. What is the purpose of keys in lists?",
+    "options": ["Track list items", "Style list", "Sort data", "Update database"],
+    "correct_answer": "Track list items"
+  },
+  {
+    "question": "Q40. What is reconciliation in React?",
+    "options": ["Data fetch", "Updating DOM by comparing virtual DOMs", "Routing", "Authentication"],
+    "correct_answer": "Updating DOM by comparing virtual DOMs"
+  },
+  {
+    "question": "Q41. How do you conditionally render in React?",
+    "options": ["If statement", "Switch case", "Ternary operator", "All of the above"],
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "Q42. What is the use of defaultProps?",
+    "options": ["Set default values for props", "Define default state", "Handle errors", "None"],
+    "correct_answer": "Set default values for props"
+  },
+  {
+    "question": "Q43. Which package is used for routing in React?",
+    "options": ["react-router-dom", "react-router", "react-dom-router", "react-dom"],
+    "correct_answer": "react-router-dom"
+  },
+  {
+    "question": "Q44. What is the use of children prop?",
+    "options": ["Pass nested elements", "Style components", "Handle events", "Track state"],
+    "correct_answer": "Pass nested elements"
+  },
+  {
+    "question": "Q45. What is shallow rendering?",
+    "options": ["Render one level deep", "Render all components", "Render in server", "Test routing"],
+    "correct_answer": "Render one level deep"
+  },
+  {
+    "question": "Q46. What are hooks?",
+    "options": ["Functions for state and lifecycle in functional components", "Events", "Components", "Props"],
+    "correct_answer": "Functions for state and lifecycle in functional components"
+  },
+  {
+    "question": "Q47. Can you use multiple hooks in a component?",
+    "options": ["Yes", "No", "Only two", "Only useState and useEffect"],
+    "correct_answer": "Yes"
+  },
+  {
+    "question": "Q48. What is the best practice for keys in list rendering?",
+    "options": ["Use index", "Use unique id", "Use random", "Use timestamp"],
+    "correct_answer": "Use unique id"
+  },
+  {
+    "question": "Q49. How do you share state between components?",
+    "options": ["Props", "Context", "State Lifting", "All of the above"],
+    "correct_answer": "All of the above"
+  },
+  {
+    "question": "Q50. Which hook is used for fetching API data?",
+    "options": ["useState", "useFetch", "useEffect", "useCallback"],
+    "correct_answer": "useEffect"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Q1. What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "Home Tool Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Hyper Tool Multi Language"
+    ],
+    "correct_answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Q2. Which HTML tag is used to define an internal style sheet?",
+    "options": [
+      "<css>",
+      "<script>",
+      "<style>",
+      "<stylesheet>"
+    ],
+    "correct_answer": "<style>"
+  },
+  {
+    "question": "Q3. What is the correct HTML element for inserting a line break?",
+    "options": [
+      "<break>",
+      "<lb>",
+      "<br>",
+      "<linebreak>"
+    ],
+    "correct_answer": "<br>"
+  },
+  {
+    "question": "Q4. Which tag is used to define a table row in HTML?",
+    "options": [
+      "<table>",
+      "<td>",
+      "<tr>",
+      "<row>"
+    ],
+    "correct_answer": "<tr>"
+  },
+  {
+    "question": "Q5. What is the correct HTML for creating a hyperlink?",
+    "options": [
+      "<a>http://example.com</a>",
+      "<a url='http://example.com'>link</a>",
+      "<a href='http://example.com'>link</a>",
+      "<link src='http://example.com'>"
+    ],
+    "correct_answer": "<a href='http://example.com'>link</a>"
+  },
+  {
+    "question": "Q6. How can you open a link in a new tab/browser window?",
+    "options": [
+      "<a href='url' target='_blank'>",
+      "<a href='url' new>",
+      "<a href='url' target='new'>",
+      "<a href='url' window='_blank'>"
+    ],
+    "correct_answer": "<a href='url' target='_blank'>"
+  },
+  {
+    "question": "Q7. Which of the following is a semantic HTML element?",
+    "options": [
+      "<div>",
+      "<section>",
+      "<span>",
+      "<br>"
+    ],
+    "correct_answer": "<section>"
+  },
+  {
+    "question": "Q8. What does the <img> tag do?",
+    "options": [
+      "Embeds a video",
+      "Inserts an image",
+      "Adds a background color",
+      "Creates a hyperlink"
+    ],
+    "correct_answer": "Inserts an image"
+  },
+  {
+    "question": "Q9. Which tag is used to create an ordered list?",
+    "options": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<list>"
+    ],
+    "correct_answer": "<ol>"
+  },
+  {
+    "question": "Q10. Which input type defines a slider control?",
+    "options": [
+      "range",
+      "slider",
+      "scroll",
+      "slide"
+    ],
+    "correct_answer": "range"
+  },
+  {
+    "question": "Q11. What does the <meta> tag do?",
+    "options": [
+      "Displays images",
+      "Provides metadata about the HTML document",
+      "Adds a footer",
+      "Connects a database"
+    ],
+    "correct_answer": "Provides metadata about the HTML document"
+  },
+  {
+    "question": "Q12. What is the correct HTML element for the largest heading?",
+    "options": [
+      "<heading>",
+      "<h6>",
+      "<h1>",
+      "<head>"
+    ],
+    "correct_answer": "<h1>"
+  },
+  {
+    "question": "Q13. Which tag is used to create a checkbox?",
+    "options": [
+      "<checkbox>",
+      "<input type='checkbox'>",
+      "<input type='check'>",
+      "<box>"
+    ],
+    "correct_answer": "<input type='checkbox'>"
+  },
+  {
+    "question": "Q14. Which HTML element is used to specify a footer?",
+    "options": [
+      "<bottom>",
+      "<footer>",
+      "<section>",
+      "<foot>"
+    ],
+    "correct_answer": "<footer>"
+  },
+  {
+    "question": "Q15. How can you make a numbered list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<dl>",
+      "<list>"
+    ],
+    "correct_answer": "<ol>"
+  },
+  {
+    "question": "Q16. Which tag is used to define a standard cell in a table?",
+    "options": [
+      "<table>",
+      "<td>",
+      "<tr>",
+      "<th>"
+    ],
+    "correct_answer": "<td>"
+  },
+  {
+    "question": "Q17. How do you create a text input field in a form?",
+    "options": [
+      "<input type='textfield'>",
+      "<textfield>",
+      "<input type='text'>",
+      "<text>"
+    ],
+    "correct_answer": "<input type='text'>"
+  },
+  {
+    "question": "Q18. Which tag is used to define a dropdown list?",
+    "options": [
+      "<input type='dropdown'>",
+      "<select>",
+      "<dropdown>",
+      "<list>"
+    ],
+    "correct_answer": "<select>"
+  },
+  {
+    "question": "Q19. What does the <hr> tag represent?",
+    "options": [
+      "A horizontal line",
+      "A hyperlink",
+      "A hard reset",
+      "A header row"
+    ],
+    "correct_answer": "A horizontal line"
+  },
+  {
+    "question": "Q20. Which tag defines a division or section in an HTML document?",
+    "options": [
+      "<section>",
+      "<div>",
+      "<span>",
+      "<article>"
+    ],
+    "correct_answer": "<div>"
+  },
+  {
+    "question": "Q21. Which tag is used to insert a comment in HTML?",
+    "options": [
+      "// Comment",
+      "<!-- Comment -->",
+      "<comment>",
+      "# Comment"
+    ],
+    "correct_answer": "<!-- Comment -->"
+  },
+  {
+    "question": "Q22. What attribute specifies an image's alternate text?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "href"
+    ],
+    "correct_answer": "alt"
+  },
+  {
+    "question": "Q23. What is the correct tag to embed a video in HTML5?",
+    "options": [
+      "<media>",
+      "<video>",
+      "<vid>",
+      "<mp4>"
+    ],
+    "correct_answer": "<video>"
+  },
+  {
+    "question": "Q24. Which tag is used to make text italic?",
+    "options": [
+      "<em>",
+      "<i>",
+      "<italic>",
+      "<it>"
+    ],
+    "correct_answer": "<i>"
+  },
+  {
+    "question": "Q25. What is the purpose of the 'action' attribute in a form?",
+    "options": [
+      "Defines the HTTP method",
+      "Defines where to send the form-data when submitted",
+      "Defines input field name",
+      "Sets validation rules"
+    ],
+    "correct_answer": "Defines where to send the form-data when submitted"
+  },
+  {
+    "question": "Q26. Which attribute is used in HTML to uniquely identify an element?",
+    "options": [
+      "name",
+      "class",
+      "id",
+      "type"
+    ],
+    "correct_answer": "id"
+  },
+  {
+    "question": "Q27. What tag is used to display preformatted text?",
+    "options": [
+      "<text>",
+      "<pre>",
+      "<code>",
+      "<format>"
+    ],
+    "correct_answer": "<pre>"
+  },
+  {
+    "question": "Q28. Which tag defines emphasized text?",
+    "options": [
+      "<bold>",
+      "<em>",
+      "<i>",
+      "<strong>"
+    ],
+    "correct_answer": "<em>"
+  },
+  {
+    "question": "Q29. Which HTML element is used to play audio files?",
+    "options": [
+      "<mp3>",
+      "<media>",
+      "<audio>",
+      "<sound>"
+    ],
+    "correct_answer": "<audio>"
+  },
+  {
+    "question": "Q30. What is the correct HTML for inserting a background color?",
+    "options": [
+      "<body bg='yellow'>",
+      "<body style='background-color:yellow;'>",
+      "<background>yellow</background>",
+      "<bgcolor>yellow</bgcolor>"
+    ],
+    "correct_answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "question": "Q31. Which HTML element defines navigation links?",
+    "options": [
+      "<navigate>",
+      "<nav>",
+      "<link>",
+      "<navigation>"
+    ],
+    "correct_answer": "<nav>"
+  },
+  {
+    "question": "Q32. What is the purpose of the <label> tag in HTML?",
+    "options": [
+      "To add titles to images",
+      "To style text",
+      "To define captions for form controls",
+      "To submit a form"
+    ],
+    "correct_answer": "To define captions for form controls"
+  },
+  {
+    "question": "Q33. How do you group checkboxes together?",
+    "options": [
+      "Use same name attribute",
+      "Use same id",
+      "Use <group> tag",
+      "Wrap in <form>"
+    ],
+    "correct_answer": "Use same name attribute"
+  },
+  {
+    "question": "Q34. Which tag defines a caption for a table?",
+    "options": [
+      "<thead>",
+      "<caption>",
+      "<label>",
+      "<summary>"
+    ],
+    "correct_answer": "<caption>"
+  },
+  {
+    "question": "Q35. Which tag is used to define a list item?",
+    "options": [
+      "<li>",
+      "<ul>",
+      "<list>",
+      "<ol>"
+    ],
+    "correct_answer": "<li>"
+  },
+  {
+    "question": "Q36. Which input type is used to hide data in forms?",
+    "options": [
+      "text",
+      "hidden",
+      "password",
+      "invisible"
+    ],
+    "correct_answer": "hidden"
+  },
+  {
+    "question": "Q37. What does the <head> element contain?",
+    "options": [
+      "The body content",
+      "HTML metadata and links to resources",
+      "Main content of the page",
+      "Scripts only"
+    ],
+    "correct_answer": "HTML metadata and links to resources"
+  },
+  {
+    "question": "Q38. What is the correct way to insert a comment in HTML?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "# This is a comment",
+      "** This is a comment **"
+    ],
+    "correct_answer": "<!-- This is a comment -->"
+  },
+  {
+    "question": "Q39. What is the purpose of the 'placeholder' attribute?",
+    "options": [
+      "To hide the field",
+      "To label the field",
+      "To show default hint text",
+      "To validate input"
+    ],
+    "correct_answer": "To show default hint text"
+  },
+  {
+    "question": "Q40. Which HTML tag is used to display a scalar measurement within a known range?",
+    "options": [
+      "<range>",
+      "<progress>",
+      "<measure>",
+      "<meter>"
+    ],
+    "correct_answer": "<meter>"
+  },
+  {
+    "question": "Q41. Which tag is used to define an abbreviation or acronym?",
+    "options": [
+      "<abbr>",
+      "<short>",
+      "<acronym>",
+      "<define>"
+    ],
+    "correct_answer": "<abbr>"
+  },
+  {
+    "question": "Q42. What does the 'required' attribute do in HTML forms?",
+    "options": [
+      "Limits characters",
+      "Makes field mandatory",
+      "Submits form",
+      "Disables input"
+    ],
+    "correct_answer": "Makes field mandatory"
+  },
+  {
+    "question": "Q43. What is the correct HTML for making a checkbox?",
+    "options": [
+      "<check>",
+      "<input type='checkbox'>",
+      "<input checkbox>",
+      "<checkbox>"
+    ],
+    "correct_answer": "<input type='checkbox'>"
+  },
+  {
+    "question": "Q44. Which tag is used to group HTML form elements?",
+    "options": [
+      "<fieldset>",
+      "<formgroup>",
+      "<group>",
+      "<section>"
+    ],
+    "correct_answer": "<fieldset>"
+  },
+  {
+    "question": "Q45. What is the purpose of the <legend> tag?",
+    "options": [
+      "Define a section title",
+      "Define a form button",
+      "Provide a caption for <fieldset>",
+      "Make text bold"
+    ],
+    "correct_answer": "Provide a caption for <fieldset>"
+  },
+  {
+    "question": "Q46. Which attribute is used to specify the maximum length for an input field?",
+    "options": [
+      "length",
+      "maxlength",
+      "max",
+      "limit"
+    ],
+    "correct_answer": "maxlength"
+  },
+  {
+    "question": "Q47. What does the <noscript> tag do?",
+    "options": [
+      "Ignores scripts",
+      "Runs scripts without JS",
+      "Provides fallback for browsers with JS disabled",
+      "Loads external scripts"
+    ],
+    "correct_answer": "Provides fallback for browsers with JS disabled"
+  },
+  {
+    "question": "Q48. Which tag is used to define the main content of a document?",
+    "options": [
+      "<main>",
+      "<body>",
+      "<section>",
+      "<content>"
+    ],
+    "correct_answer": "<main>"
+  },
+  {
+    "question": "Q49. Which tag is used to embed an iframe?",
+    "options": [
+      "<frame>",
+      "<inline>",
+      "<iframe>",
+      "<embed>"
+    ],
+    "correct_answer": "<iframe>"
+  },
+  {
+    "question": "Q50. Which tag is used to insert JavaScript code in HTML?",
+    "options": [
+      "<script>",
+      "<js>",
+      "<javascript>",
+      "<code>"
+    ],
+    "correct_answer": "<script>"
+  }
+]
