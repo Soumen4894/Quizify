@@ -43,11 +43,13 @@ const HTML = () => {
     }
     return (
         <>
-            <div className='bg-gray-50'>
+        <div className=''>
+            <div className='bg-gradient-to-bl from-green-100 via-gray-100 to-green-400'>
                 {!document.fullscreenElement && bv &&
                     <span className='flex justify-end'><button onClick={toggleFullScreen}><AiOutlineFullscreen className=' text-3xl mx-8 my-2 text-black font-bold' /></button></span>
                 }
                 <Question questions={questions} />
+            </div>
             </div>
         </>
     )

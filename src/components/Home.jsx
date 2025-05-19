@@ -15,15 +15,15 @@ const Home = () => {
         { src: abd, alt: 'Node.js', label: 'Node.js', path: 'node' },
         { src: react, alt: 'React', label: 'React', path: 'react' },
         { src: js, alt: 'JavaScript', label: 'JavaScript', path: 'js' },
-        { src: js, alt: 'JavaScript', label: 'JavaScript', path: 'js2' }
+        { src: js, alt: 'JavaScript', label: 'JavaScript', path: 'js' }
     ];
 
     return (
-        <div className="bg-gradient-to-bl from-green-100 via-gray-100 to-green-100 min-h-screen flex flex-col">
+        <div className="bg-gradient-to-bl from-green-100 via-gray-100 to-green-400 min-h-screen flex flex-col">
             {/* Logo Section */}
             <header className=" flex justify-center px-6 py-4">
                 <img
-                    className="w-24 h-24 rounded-full border-4 border-gray-300 shadow-md"
+                    className="w-24 h-24 rounded-full border-5 border-gray-400 shadow-md"
                     src="Logo.png"
                     alt="Logo"
                 />
@@ -38,17 +38,17 @@ const Home = () => {
                             className="group bg-white border border-gray-300 rounded-2xl shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 p-6 flex flex-col items-center text-center"
                         >
                             <img
-                                className="w-24 h-24 object-contain mb-4"
+                                className="w-24 h-24 object-contain mb-4 rounded-xl"
                                 src={topic.src}
                                 alt={topic.alt}
                             />
-                            <h3 className="text-xl font-semibold text-gray-700 group-hover:text-black transition-colors mb-2">
+                            <h3 className="text-xl font-semibold text-gray-700 group-hover:text-gray-950 transition-colors mb-2">
                                 {topic.label}
                             </h3>
-                            <div className="w-2/3 h-1 mb-4 rounded-full bg-gradient-to-r from-gray-400 via-black to-gray-400" />
+                            <div className="w-3/4 h-1 mb-4 rounded-full bg-gradient-to-r from-gray-400 via-gray-500 to-gray-400" />
                             <Link
                                 to={`/${topic.path}`}
-                                className="inline-flex items-center gap-2 text-sm font-medium text-blue-600 group-hover:text-blue-800 transition-colors"
+                                className="inline-flex items-center gap-2 text-sm font-medium text-gray-600 group-hover:text-gray-800 transition-colors"
                             >
                                 Take a test
                                 <FaArrowRight className="transition-transform duration-200 group-hover:translate-x-1" />
@@ -65,13 +65,13 @@ const Home = () => {
                         © {new Date().getFullYear()} YourAppName
                     </div>
                     <div className="text-sm text-center md:text-left">
-                        Made with ❤️ using React & Tailwind CSS
+                        Made with ❤️ using React
                     </div>
                     <div className="flex gap-4 text-xl">
-                        <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                        <a href="https://github.com/Soumen4894" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                             <FaGithub />
                         </a>
-                        <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                        <a href="https://www.linkedin.com/in/sm4894" target="_blank" rel="noopener noreferrer" className="hover:text-white">
                             <FaLinkedin />
                         </a>
                     </div>
