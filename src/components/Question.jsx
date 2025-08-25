@@ -123,6 +123,7 @@ import React, { useState } from 'react';
 import { ImCheckboxUnchecked, ImCheckboxChecked, ImCross } from "react-icons/im";
 import { GrFormPrevious, GrFormNext } from "react-icons/gr";
 import { FaCheckCircle } from "react-icons/fa";
+import {motion} from 'framer-motion'
 // import { GrFormPrevious } from "react-icons/gr";
 // import { GrFormNext } from "react-icons/gr";
 
@@ -165,7 +166,11 @@ const Question = ({ questions }) => {
   };
 
   return (
-    <div className="min-h-screen  flex items-center justify-center px-4 py-10">
+    <motion.div className="min-h-screen  flex items-center justify-center px-4 py-10"
+      initial={{x:'100vw'}}
+      animate={{x:0}}
+      transition={{type: 'spring', stiffness: 50, delay: 0.5}}
+    >
       {questions.slice(page - 1, page).map((question, index) => (
         <div
           key={index}
@@ -246,7 +251,7 @@ const Question = ({ questions }) => {
           </div>
         </div>
       ))}
-    </div>
+    </motion.div>
   );
 };
 

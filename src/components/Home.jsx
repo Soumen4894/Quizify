@@ -62,7 +62,7 @@ const Home = () => {
             <footer className="bg-gray-800 text-gray-300 py-6 px-6 mt-12">
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
                     <div className="text-lg font-semibold">
-                        © {new Date().getFullYear()} YourAppName
+                        © {new Date().getFullYear()} Quizify
                     </div>
                     <div className="text-sm text-center md:text-left">
                         Made with ❤️ using React
